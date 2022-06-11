@@ -1,0 +1,11 @@
+@import '../font/iconfont.css';
+
+.content {
+  color: #12345678;
+}
+
+.bg-image {
+  display: inline-block;
+  background-image: url('../img/img2.jpg');
+  background-size: contain;
+}
